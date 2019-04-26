@@ -2,15 +2,15 @@
 _April 30, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.com/)_
 
 ## Introductions
-CLB intro + background
-Icebreaker question: If you had a day to totally relax and you could go anywhere or do anything, what would you do?
+- About me
+- Random icebreaker question: If you had a day to totally relax and you could go anywhere or do anything, what would you do?
 
 ## Group Activity
 - Reading HTML elements
 
 ## Intro to CSS
 - Connect it to our HTML
-   - External: <link rel="stylesheet" href="style.css">
+   - External: `<link rel="stylesheet" href="style.css">`
    - Internal: declared inside of HTML head
    - Inline: declared inside of element using the style attribute
 - Selectors + values
@@ -22,5 +22,10 @@ Icebreaker question: If you had a day to totally relax and you could go anywhere
    - https://codepen.io/chriscoyier/pen/JpLzjd
 
 ## Individual Activity
-Start with markup, add styles to match a page like this:
-https://johnsonservicecorps.org/2019/our-partners-at-the-pauli-murray-center-for-history-and-social-justice/
+Start with markup, add styles to match a page like: `single-post-screenshot.jpg`
+
+Style notes:
+- Font: system font stack; sans-serif
+- Orange: #dc7a39
+- Gradient light green: #95ac76
+- Gradient blue: #317381
