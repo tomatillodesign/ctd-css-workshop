@@ -22,7 +22,9 @@ _April 30, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesi
    - https://codepen.io/chriscoyier/pen/JpLzjd
 
 ## Individual Activity
-Start with markup, add styles to match a page like: `single-post-screenshot.jpg`
+Start with markup, add styles to match a page like: http://www.tomatillodesign.com/wp-content/uploads/2019/04/single-post-screenshot.jpg
+Here are the files (zipped), including your markup and a blank CSS file to get started: https://www.dropbox.com/s/3r2iwi8jxldxck7/session-1-exercise-files.zip?dl=0
+
 
 Style notes:
 - Font: system font stack; sans-serif
