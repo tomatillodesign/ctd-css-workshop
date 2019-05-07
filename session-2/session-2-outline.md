@@ -12,8 +12,8 @@ _May 7, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.
 - Cascading & Specificity
 - Working with Selectors
 - [Units of Measurement](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units): px, percentages, em, rem, 0
-- Box model
-- Colors: rgba and hex
+- [Box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+- [Colors](https://css-tricks.com/nerds-guide-color-web/): rgba and hex
 - Using Normalize + resets:
    - https://css-tricks.com/reboot-resets-reasoning/
    - https://codepen.io/chriscoyier/pen/JpLzjd
