@@ -2,8 +2,8 @@
 _May 7, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.com/)_
 
 ## Tools & Setup
-- Downloading files and running them in your browser... issues?
-- CodePen: https://codepen.io
+- Any issues downloading HTML & CSS files and running them in your browser?
+- Another great tool - _CodePen_: https://codepen.io
 
 ## Quiz Review
 - [View questions and see HTML/CSS on CodePen](https://codepen.io/tomatillodesign/pen/eaNRdZ)
@@ -19,5 +19,6 @@ _May 7, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.
    - https://codepen.io/chriscoyier/pen/JpLzjd
 
 ## Individual Activity
-- Using either the files on your computer or a fresh new CodePen, create both the HTML and the CSS to achieve 6 info cards, divided into 2 rows of 3. Here's a screenshot of what we're after: http://www.tomatillodesign.com/wp-content/uploads/2019/04/single-post-screenshot.jpg
-- BONUS: Add a photo at the top of each card
+- Using either the files on your computer or a fresh new CodePen, create both the HTML and the CSS to achieve 3 info cards in a row across. Here's a screenshot of what we're after: http://www.tomatillodesign.com/wp-content/uploads/2019/05/3-cards.jpg
+- BONUS: Add a photo at the top of each card (eg http://www.tomatillodesign.com/wp-content/uploads/2019/05/3-cards-w-images.jpg)
+- DOUBLE BONUS: Create another row of 3 cards, for 6 total
