@@ -22,6 +22,7 @@ _May 14, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign
 - Images
 
 ## Individual Activity
-- Using either the files on your computer or a fresh new CodePen, create both the HTML and the CSS to achieve 3 info cards in a row across. Here's a screenshot of what we're after: http://www.tomatillodesign.com/wp-content/uploads/2019/05/3-cards.jpg
-- BONUS: Add a photo at the top of each card (eg http://www.tomatillodesign.com/wp-content/uploads/2019/05/3-cards-w-images.jpg)
-- DOUBLE BONUS: Create another row of 3 cards, for 6 total
+- Begin with the markup for `single-post.html` here in this folder ("No Name Lake" article).
+- Add any new markup that you need in order to create a "hero image" at the top of the article.
+- This new section should have an image in the background with large, readable text on top of the image. [Here are several examples](http://www.tomatillodesign.com/wp-content/uploads/2019/05/session-3-hero-images.jpg)
+- Feel free to work in CodePen (copy/paste the markup over) or locally on your computer
