@@ -8,7 +8,7 @@ _May 28, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign
 ## CSS Concepts
 ### Walking through a Professional-Grade CSS Stylesheet
 - [Atmosphere Theme Example](https://demo.studiopress.com/atmosphere/)
-- [Atmosphere files](/atmosphere)
+- [Atmosphere files](/session-5/atmosphere)
 
 
 ## Individual Activity: Update a Website for Your Client
