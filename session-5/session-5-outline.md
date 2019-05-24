@@ -13,3 +13,11 @@ _May 28, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign
 
 ## Individual Activity: Update a Website for Your Client
 - Using the `index.html` document, write your own custom HTML/CSS to help your client achieve their goals. Here is the list of what your client is asking for:
+     1. Use a new custom Google Font for the "Atmosphere" logo/word in the upper left. Make sure the new font is legible but also large with some "personality".
+     2. Add color. Please pick a main color to use as an accent throughout the page. This new color or appropriate shades of it should be used on the following elements:
+          - "Typography" button link in the main menu
+          - Background on the "02" middle section
+          - Background down on the "Fun Facts" section
+     3. Change the homepage hero background photo. Please make sure that the text overlay is still legible. 
+     4. Add a [CSS gradient background](https://css-tricks.com/css3-gradients/) to the "Email Newsletter" section at the very bottom. The gradient should match/look good with your other color choices.
+     5. Change the photo at the top of the "About" page (about.html). Add a new photo that matches in size and appearance at the top of the "Typography" page (typography.html).
