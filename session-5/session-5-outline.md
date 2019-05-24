@@ -3,7 +3,6 @@ _May 28, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign
 
 ## Media Query & Pseudo-Selector Review
 - Review of your CodePen examples
-- Live Quiz: Kahoot
 
 ## CSS Concepts
 ### Walking through a Professional-Grade CSS Stylesheet
