@@ -11,8 +11,10 @@ _May 28, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign
 - [Atmosphere files](/session-5/atmosphere)
 
 
-## Individual Activity: Update a Website for Your Client
-Using the `index.html` document, write your own custom HTML/CSS to help your client achieve their goals. Here is the list of what your client is asking for:
+## Individual Activity: Update a Website for a Client
+A client has asked you to customize their website. If you can complete the list, they are offering to pay you $500. Can you do it? :dollar:
+
+Using the `index.html` and `css/style.css` files, write your own custom HTML/CSS to help your client achieve their goals. Here is the list of what your client is asking for:
 1. Use a new custom Google Font for the "Atmosphere" logo/word in the upper left. Make sure the new font is legible but also large with some "personality".
 2. Add color. Please pick a main color to use as an accent throughout the page. This new color or appropriate shades of it should be used on the following elements:
      - "Typography" button link in the main menu
