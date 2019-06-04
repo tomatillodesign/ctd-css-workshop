@@ -1,6 +1,8 @@
 # Code the Dream Intro to CSS Workshop Session 6
-_June 4, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.com/)_<br/>
-_This is our last class! Great job :clap::tada: I will be back here next week from 3-5p to answer questions or help with any code/projects that you may have._
+_June 4, 2019 • Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.com/)_
+
+This is our last class! Great job :clap::tada:
+I will be back here next week from 3-5p to answer questions or help with any code/projects that you may have.
 
 ## Client Work Review
 - What was the most challenging part of the assignment? What part was the easiest?
