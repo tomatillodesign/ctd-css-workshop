@@ -1,5 +1,5 @@
 # ctd-css-workshop
-Files and notes for Code the Dream CSS Workshop, Spring 2019
+Files and notes for Code the Dream CSS Workshop, Spring 2019 &middot; _Chris Liu-Beers, [Tomatillo Design](http://www.tomatillodesign.com/)_
 
 ## Class Recordings
 - Session 1, Intro to CSS (recording failed)
