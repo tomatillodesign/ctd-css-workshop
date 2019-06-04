@@ -1,10 +1,26 @@
 @import './variables';
 
+img {
+  max-width: 100%;
+}
+
+
+nav ul {
+  @include horizontal-list; // Using a mixin
+}
+
+
+
+
 /* Typography ----- */
 
 body {
      font-family: 'Open Sans', sans-serif;
+     p { // nested items - this will only apply to all p tags WITHIN body
+          font-weight: 300;
+     }
 }
+
 
 h1, h2, h3, h4, h5, h6 {
      font-family: 'Oswald', sans-serif;
@@ -15,9 +31,27 @@ h1, h2, h3, h4, h5, h6 {
 
 
 button, .button, .btn {
+     @extend h2; // @extend will import and apply all of the styles from this item
      background: $primaryAccentColor;
 }
 
 p {
      color: $textColor;
+}
+
+
+.site-header .wrap {
+     // display: flex;
+     // flex-direction: row;
+     // justify-content: space-between;
+}
+
+.home-middle {
+     // display: grid;
+     // grid-template-columns: 1fr 1fr 1fr;
+     // grid-column-gap: 20px;
+}
+
+.action-card {
+     text-align: center;
 }

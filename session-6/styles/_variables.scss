@@ -1,2 +1,26 @@
-$primaryAccentColor : #ef5223;
-$textColor : red;
+$primaryAccentColor : #45a247; // green
+$secondaryAccentColor : #283c86; // blue
+$textColor : #4d5968; // gray
+
+
+
+// Mixins ----- //
+
+@mixin reset-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@mixin horizontal-list {
+
+  @include reset-list;
+
+  li {
+    display: inline-block;
+    margin: {
+      left: -2px;
+      right: 2em;
+    }
+  }
+}
